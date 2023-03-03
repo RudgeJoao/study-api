@@ -4,7 +4,7 @@ public class Pessoa {
 	private Long id;
 	private String nome;
 	private int idade;
-	
+	//parte02
 	
 	public Long getId() {
 		return id;

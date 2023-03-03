@@ -8,7 +8,7 @@ import com.github.rudgejoao.study_api.model.Pessoa;
 public class PessoaService {
 	
 	private List<Pessoa> pessoas;
-	
+	//parte02
 	//quando chamar o contrutor, vai carregar automaticamente o load
 	public PessoaService() {
 		load();
